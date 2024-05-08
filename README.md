@@ -18,7 +18,7 @@ Requerimientos
 
    5. Ruta de conejo: Crear una ruta /abracadabra/conejo/:n que valide si el parámetro "n" coincide con el número generado de forma aleatoria. En caso de éxito, devolver la imagen del conejo, de lo contrario, devolver la imagen de Voldemort.
 
-    6. Ruta genérica: Crear una ruta genérica que devuelva un mensaje diciendo "Esta página no existe..." al consultar una ruta que no esté definida en el servidor.
+   6. Ruta genérica: Crear una ruta genérica que devuelva un mensaje diciendo "Esta página no existe..." al consultar una ruta que no esté definida en el servidor.
 
 Uso
 
