@@ -29,7 +29,7 @@ Uso
 
 Estructura del Proyecto
 
-   index.html: Archivo HTML del sitio web estático.
-   assets/: Carpeta que contiene las imágenes y otros recursos estáticos.
-  server.js: Archivo principal que contiene la lógica del servidor Express.
+  - index.html: Archivo HTML del sitio web estático.
+  - assets/: Carpeta que contiene las imágenes y otros recursos estáticos.
+  - server.js: Archivo principal que contiene la lógica del servidor Express.
 
